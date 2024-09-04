@@ -11,13 +11,15 @@ specific location of each file in the project) we will use the branches to separ
 and so on...
 
 The whole list of branches is this:
- - [intro](https://github.com/nicolacanzonieri/all_rings/tree/intro)
- - [project?](https://github.com/nicolacanzonieri/all_rings/tree/project)
- - [scripts](https://github.com/nicolacanzonieri/all_rings/tree/scripts)
- - [images](https://github.com/nicolacanzonieri/all_rings/tree/images)
  - [animations](https://github.com/nicolacanzonieri/all_rings/tree/animations)
- - [sounds](https://github.com/nicolacanzonieri/all_rings/tree/sounds)
+ - [ideas](https://github.com/nicolacanzonieri/all_rings/tree/ideas)
+ - [images](https://github.com/nicolacanzonieri/all_rings/tree/images)
+ - [intro](https://github.com/nicolacanzonieri/all_rings/tree/intro)
  - [how_to](https://github.com/nicolacanzonieri/all_rings/tree/how_to)
+ - [project](https://github.com/nicolacanzonieri/all_rings/tree/project)
+ - [scripts](https://github.com/nicolacanzonieri/all_rings/tree/scripts)
+ - [sounds](https://github.com/nicolacanzonieri/all_rings/tree/sounds)
+
 
 > [!IMPORTANT]
 > Remeber to update the following list!
