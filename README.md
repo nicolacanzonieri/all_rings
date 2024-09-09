@@ -28,6 +28,7 @@ The whole list of branches is this:
 
 **Incoming:**
 - [ ] Change the whole repository structure[^1].
+
 [^1] : Instead of having multiple branches we will have multiple folders inside the `main` branch
 
 **Work in progress:**
