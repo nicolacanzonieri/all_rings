@@ -27,7 +27,7 @@ The whole list of branches is this:
 ## To Do:
 
 **Incoming:**
-- [ ] #1
+- [ ] https://github.com/nicolacanzonieri/all_rings/issues/1
 
 **Work in progress:**
 
