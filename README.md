@@ -27,7 +27,7 @@ The whole list of branches is this:
 ## To Do:
 
 **Incoming:**
-- [ ] Change the whole repository structure[^1].
+- [ ] Change the whole repository structure[^1] - @nicolacanzonieri.
 
 [^1]: Instead of having multiple branches we will have multiple folders inside the `main` branch
 
