@@ -23,3 +23,14 @@ The whole list of branches is this:
 
 > [!IMPORTANT]
 > Remeber to update the following list!
+
+## To Do:
+
+**Incoming:**
+- [ ] Change the whole repository structure[^1].
+[^1] : Instead of having multiple branches we will have multiple folders inside the `main` branch
+
+**Work in progress:**
+
+
+**Done:**
