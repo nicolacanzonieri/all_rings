@@ -27,7 +27,7 @@ The whole list of branches is this:
 ## To Do:
 
 **Incoming:**
-- [ ] https://github.com/nicolacanzonieri/all_rings/issues/1
+- [ ] [Use folder based github repository structure instead of using branches based structure](https://github.com/nicolacanzonieri/all_rings/issues/1)
 
 **Work in progress:**
 
