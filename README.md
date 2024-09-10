@@ -1,37 +1,50 @@
-# Introduction to All Rings Repository
+# All Rings Repository :boxing_glove:
 
-This repository has been made to help developers of All Rings.
+_By Sliced Games Studios and SHAKAGAMES_
 
-In this repository will be stored scripts from the game, files of any type and more. Also why not the whole project?
+## Introduction
 
-## The branches
+All Rings is a new game by SHAKAGAMES and Sliced Games Studios. It’s a pixel retro boxing game made with Unity 6 and will be available for Android (and maybe PC).
 
-Since this repository has been made to contain not only the whole project but also other files (without giving the 
-specific location of each file in the project) we will use the branches to separate file types, project branch, scripts
-and so on...
+This is an introduction that will help you navigate inside the repository of the game.
 
-The whole list of branches is this:
- - [animations](https://github.com/nicolacanzonieri/all_rings/tree/animations)
- - [ideas](https://github.com/nicolacanzonieri/all_rings/tree/ideas)
- - [images](https://github.com/nicolacanzonieri/all_rings/tree/images)
- - [intro](https://github.com/nicolacanzonieri/all_rings/tree/intro)
- - [how_to](https://github.com/nicolacanzonieri/all_rings/tree/how_to)
- - [project](https://github.com/nicolacanzonieri/all_rings/tree/project)
- - [scripts](https://github.com/nicolacanzonieri/all_rings/tree/scripts)
- - [sounds](https://github.com/nicolacanzonieri/all_rings/tree/sounds)
+## Vision of the Game
 
+Our vision is to give players a game similar to old retro fighting games but with modern solutions, intense gameplay, and a highly customizable experience.
 
-> [!IMPORTANT]
-> Remeber to update the following list!
+The game will feature both **Career Mode** and **Local Multiplayer**.
 
-## To Do:
+In **Career Mode**, you will take on the role of a boxer striving to climb the ranks in the boxing world, ultimately reaching the pinnacle of the sport.
 
-**Incoming:**
-- [ ] [Use folder based github repository structure instead of using branches based structure](https://github.com/nicolacanzonieri/all_rings/issues/1)
-  - [ ] [Better `main` documentation](https://github.com/nicolacanzonieri/all_rings/issues/2)
-    - [ ] Set the repository to public
+In **Local Multiplayer**, you can share the device with friends and play together with split screen.
 
-**Work in progress:**
+## Features
+- Pixel Retro Graphics: Enjoy a nostalgic visual style with modern enhancements.
+- Intense Gameplay: Fast-paced and challenging boxing matches.
+- Character Customization: Customize your boxer’s appearance and abilities.
+- Career Mode: Climb the ranks and become the ultimate champion.
+- Local Multiplayer: Play with friends on the same device with split screen.
 
+## Gameplay Mechanics
 
-**Done:**
+All Rings offers a variety of gameplay mechanics to keep players engaged:
+
+- Combo System: Execute powerful combos to defeat your opponents.
+- Special Moves: Each boxer has unique special moves that can turn the tide of a match.
+- Training Mode: Practice your skills and learn new techniques in the training mode.
+
+## Art and Design
+
+The game features a unique pixel art style inspired by classic retro games. We are dedicated to creating vibrant and detailed environments, as well as expressive character animations.
+
+## Sound and Music
+
+All Rings will feature an original soundtrack composed to enhance the retro feel of the game. Sound effects are designed to provide an immersive and satisfying experience during matches by using old retro games as guide.
+
+## Inspirations
+
+All Rings draws inspiration from classic fighting games like Street Fighter and Punch-Out!!, as well as modern indie games that have successfully blended retro aesthetics with contemporary gameplay.
+
+## Future Plans
+
+We have exciting plans for the future of All Rings and we will share with you when we will be ready!
