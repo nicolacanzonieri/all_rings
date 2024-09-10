@@ -2,6 +2,9 @@
 
 _An original idea by SHAKAGAMES. Developed by SHAKAGAMES and SLiced Games Studios_
 
+> [!NOTE]
+> This README is temporary and will updated and expanded as the project progresses
+
 ## Introduction :speech_balloon:
 
 All Rings is a new game by **SHAKAGAMES** and **Sliced Games Studios**. It’s a **pixel retro boxing game** made with Unity 6 and will be available for **Android** (and maybe PC).
