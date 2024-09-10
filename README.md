@@ -35,7 +35,7 @@ All Rings offers a variety of gameplay mechanics to keep players engaged:
 
 ## Art and Design :art:
 
-The game features a unique pixel art style inspired by classic retro games. We are dedicated to creating vibrant and detailed environments, as well as expressive character animations.
+The game features a **unique pixel art style** inspired by classic retro games. We are dedicated to creating vibrant and detailed environments, as well as expressive character animations.
 
 ## Sound and Music :notes:
 
