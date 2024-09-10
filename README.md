@@ -1,6 +1,6 @@
 # :boxing_glove: All Rings Repository :boxing_glove:
 
-_By Sliced Games Studios and SHAKAGAMES_
+_An original idea by SHAKAGAMES. Developed by SHAKAGAMES and SLiced Games Studios_
 
 ## Introduction :speech_balloon:
 
