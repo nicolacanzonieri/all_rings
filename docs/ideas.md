@@ -4,7 +4,7 @@ Branch where we share our ideas and upgrades about the game
 
 ## Incoming ideas
 
-- [ ] Asprite forma working on animations and game sprites - @nicolacanzonieri
+- [ ] Asprite for working on animations and game sprites - @nicolacanzonieri
 
 ## Approved ideas
 
