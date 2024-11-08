@@ -1,6 +1,6 @@
 # :boxing_glove: All Rings Repository :boxing_glove:
 
-_An original idea by SHAKAGAMES. Developed by SHAKAGAMES and SLiced Games Studios_
+_An original idea by SHAKAGAMES. Developed by SHAKAGAMES and Sliced Games Studios_
 
 > [!NOTE]
 > This README is temporary and will updated and expanded as the project progresses
