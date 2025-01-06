@@ -4,10 +4,11 @@ Branch where we share our ideas and upgrades about the game
 
 ## Incoming ideas
 
-- [ ] Asprite for working on animations and game sprites - @nicolacanzonieri
+
 
 ## Approved ideas
 
+- [X] Asprite for working on animations and game sprites - @nicolacanzonieri
 - [X] Gesture swipes to move and attack - @gabrigua
 - [X] *Modality* face different opponent until you die (life doesn't reset and possibly can fight to infinity) - @gabrigua
 - [X] Local multiplayer by rotating the phone - @nicolacanzonieri
